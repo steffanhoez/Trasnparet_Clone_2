@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Flutter_All/Trasnparet_Clone_2/app/src/main/res/drawable-v24/backbutton2.xml" value="0.329" />
+        <entry key="..\:/Flutter_All/Trasnparet_Clone_2/app/src/main/res/drawable-v24/contacticonactivate.xml" value="0.329" />
+        <entry key="..\:/Flutter_All/Trasnparet_Clone_2/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.265" />
+        <entry key="..\:/Flutter_All/Trasnparet_Clone_2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.265" />
+        <entry key="..\:/Flutter_All/Trasnparet_Clone_2/app/src/main/res/drawable/gradient.xml" value="0.1" />
+        <entry key="..\:/Flutter_All/Trasnparet_Clone_2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.265" />
+        <entry key="..\:/Flutter_All/Trasnparet_Clone_2/app/src/main/res/layout/activity_main.xml" value="0.3359375" />
         <entry key="..\:/Flutter_All/Trasnparet_Clone_2/app/src/main/res/layout/activity_splash.xml" value="0.3359375" />
       </map>
     </option>
